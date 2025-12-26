@@ -6,4 +6,4 @@
    - Detects open ports on target IP.
 
 ## Usage
-python3 Reconnaissance/scanner.py <target_ip>
+python3 Scanner/scanner.py <target_ip>
