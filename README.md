@@ -1,9 +1,3 @@
-# Cyber Security Projects
+# Reconnaissance Toolkit 👁️
 
-## Tools
-1. **Reconnaissance/scanner.py**: 
-   - Simple TCP Port Scanner using Python sockets.
-   - Detects open ports on target IP.
-
-## Usage
-python3 Reconnaissance/scanner.py <target_ip>
+This repository serves as a collection of custom tools and scripts developed for the **Reconnaissance (Information Gathering)** phase of penetration testing and Red Team operations.
